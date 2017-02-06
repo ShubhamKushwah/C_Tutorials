@@ -8,5 +8,12 @@
 6. It has since become one of the most widely used programming languages of all time.
 7. C has been standardized by the American National Standards Institute (ANSI) since 1989 and subsequently by the International Organization for Standardization (ISO).
 8. It is a high-level language.
--------------------------
+
 C has now become a widely used professional language, beacuse of the following: 
+-------------------------
+1. Easy to learn.
+2. Structured language.
+3. It produces efficient programs.
+4. It can handle low-level activities.
+5. It can be compiled on a variety of computer platforms.
+6. Fast & Portable language.
