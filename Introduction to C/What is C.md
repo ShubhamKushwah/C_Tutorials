@@ -1,7 +1,9 @@
 #What is C ?
 
-1. C is a general-purpose, imperative computer programming language.
-2. Supports structured programming.
-lexical variable scope and recursion, while a static type system prevents many unintended operations. By design, C provides constructs that map efficiently to typical machine instructions, and therefore it has found lasting use in applications that had formerly been coded in assembly language, including operating systems, as well as various application software for computers ranging from supercomputers to embedded systems.
-
-C was originally developed by Dennis Ritchie between 1969 and 1973 at Bell Labs,[5] and used to re-implement the Unix operating system.[6] It has since become one of the most widely used programming languages of all time,[7][8] with C compilers from various vendors available for the majority of existing computer architectures and operating systems. C has been standardized by the American National Standards Institute (ANSI) since 1989 (see ANSI C) and subsequently by the International Organization for Standardization (ISO).
+1. C was originally developed by Dennis Ritchie between 1969 and 1973 at BELL LABS.
+2. C is a general-purpose, imperative computer programming language.
+3. Supports structured programming.
+4. Use for many development purposes including operating systems, as well as various application software for computers ranging from supercomputers to embedded systems.
+5. Used to re-implement the Unix operating system.
+6. It has since become one of the most widely used programming languages of all time.
+7. C has been standardized by the American National Standards Institute (ANSI) since 1989 and subsequently by the International Organization for Standardization (ISO).
